@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "C:/Users/zoheb/eclipse-workspace/CSC475_CTA5",
+    "command": "g++ -O0 -g3 -Wall -c -fmessage-length\u003d0 -o \"C:/Users/zoheb/eclipse-workspace/CSC475_CTA5/Debug/src/CSC475_CTA5.o\" \"C:/Users/zoheb/eclipse-workspace/CSC475_CTA5/src/CSC475_CTA5.cpp\"",
+    "file": "C:/Users/zoheb/eclipse-workspace/CSC475_CTA5/src/CSC475_CTA5.cpp"
+  }
+]
